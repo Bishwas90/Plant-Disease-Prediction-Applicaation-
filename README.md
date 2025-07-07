@@ -1,2 +1,2 @@
-# Plant-Disease-Prediction-Applicaation-
+# Plant-Disease-Prediction-Application-
  This is Plant Disease Prediction Application using the MERN Stack (MongoDB, Express.js, React.js, Node.js) combined with Machine Learning (CNN) for image-based disease classification.
